@@ -28,12 +28,6 @@ I am a final-year computer science student with a strong passion for **full-stac
 
 ---
 
-### 🇯🇵 Language Goals
-I am a dedicated Japanese language learner with a long-term goal of reaching **JLPT N1**.
-* **Current Milestone:** Preparing for the **JLPT N4 examination** (July 2026).
-
----
-
 ### 📈 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=thinzar-kyaw07&theme=radical&cache_bust=1)
 ---
