@@ -35,9 +35,7 @@ I am a dedicated Japanese language learner with a long-term goal of reaching **J
 ---
 
 ### 📈 GitHub Stats
-![Thinzar Kyaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinzar-kyaw07&show_icons=true&theme=dark)
-![GitHub Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thinzar-kyaw07&theme=radical)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=thinzar-kyaw07&theme=radical&cache_bust=1)
 ---
 
 ### 📫 How to reach me
