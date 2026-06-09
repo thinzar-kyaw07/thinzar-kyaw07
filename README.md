@@ -35,11 +35,9 @@ I am a dedicated Japanese language learner with a long-term goal of reaching **J
 ---
 
 ### 📈 GitHub Stats & Streak
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thinzar-kyaw07&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-streak-stats.herokuapp.com?user=thinzar-kyaw07&theme=radical&hide_border=true" />
-</p>
+![Thinzar Kyaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinzar-kyaw07&show_icons=true&theme=radical)
 
+![Thinzar Kyaw's Streak](https://github-streak-stats.herokuapp.com?user=thinzar-kyaw07&theme=radical)
 ---
 
 ### 📫 How to reach me
