@@ -21,8 +21,6 @@ I am a final-year computer science student with a strong passion for **full-stac
 *   **Projects:** Developing the **Class Management System** (Laravel + Vue.js + Inertia.js). 
     *   Implementing features like QR code-based attendance tracking and automated student dashboards.
 *   **Affiliation:** Working with the **Realistic Infotech Group** on software development initiatives.
-*   **Cybersecurity:** Deep-diving into network vulnerabilities, cryptography, and defensive security practices.
-
 ---
 
 ### 🇯🇵 Language Goals
